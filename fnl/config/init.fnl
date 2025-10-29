@@ -1,9 +1,4 @@
-(require-macros :laurel.macros)
-
-(g! :mapleader " ")
-(g! :maplocalleader ",")
-
-(set! :number true)
-(set! :relativenumber true)
-(set! :ruler false)
-(set! :showmode false)
+(require :config.opts)
+(require :config.autocmds)
+(require :config.keymaps)
+(require :config.mini)
