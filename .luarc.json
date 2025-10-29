@@ -1,0 +1,16 @@
+{
+    "diagnostics.globals": [
+        "MiniDeps",
+        "MiniVisits",
+        "MiniExtra",
+        "MiniIcons",
+        "MiniMisc",
+        "MiniCompletion",
+        "MiniFiles",
+        "MiniKeymap",
+        "MiniColors",
+        "MiniNotify",
+        "MiniClue",
+        "MiniSnippets"
+    ]
+}
